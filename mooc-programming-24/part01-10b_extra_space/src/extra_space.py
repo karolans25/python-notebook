@@ -10,9 +10,10 @@ level3 = "semiprofessional"
 lower = 2000
 upper = 3000
 
-print("my name is ", name, " , I am ", age, "years old")
-print("my skills are")
-print("- ", skill1, " (", level1, ")")
-print("- ", skill2, " (", level2, ")")
-print("- ", skill3, " (", level3, " )")
-print("I am looking for a job with a salary of", lower, "-", upper, "euros per month")
+print()
+print(f"my name is {name}, I am {age} years old")
+print("\nmy skills are")
+print(f" - {skill1} ({level1})")
+print(f" - {skill2} ({level2})")
+print(f" - {skill3} ({level3})")
+print(f"\nI am looking for a job with a salary of {lower}-{upper} euros per month")

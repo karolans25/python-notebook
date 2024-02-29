@@ -46,6 +46,18 @@ print with end='' => one line
 
 ![alt text](image-2.png)
 
+#### `elif` statement
+
+#### Logical operators
+
+![alt text](image-8.png)
+
+![alt text](image-9.png)
+
+#### Combining and chaining condicions
+
+#### Nested conditionals
+
 ### Comparisson Operators
 
 ![alt text](image-3.png)
@@ -56,6 +68,12 @@ print with end='' => one line
 
 #### math
 
+* sqrt
+
+#### difflib
+
+* get_close_matches
+
 #### numpy
 
 #### pandas
@@ -63,6 +81,10 @@ print with end='' => one line
 #### seaborn
 
 #### pygame
+
+#### string
+
+#### random
 
 
 ## PART 2
@@ -96,4 +118,13 @@ Data type refers to the characteristics of any value present in the program. In 
 
 ![alt text](image-6.png)
 
+### Syntax
+Similarly to natural languages, the syntax of a programming language determines how the code of a program should be written. Each programming language has its own specific syntax.
 
+The syntax of Python specifies, among other things, that the first line of an if statement should end in a colon character, and the block of the statement should be indented:
+
+![alt text](image-7.png)
+
+### Simple Loops
+
+#### Concatenating strings with the + operator
