@@ -86,6 +86,9 @@ print with end='' => one line
 
 #### random
 
+#### datetime
+
+#### fractions
 
 ## PART 2
 
@@ -128,3 +131,8 @@ The syntax of Python specifies, among other things, that the first line of an if
 ### Simple Loops
 
 #### Concatenating strings with the + operator
+
+
+
+
+### In the example above also the helper methods were called via the self parameter name when they were used in the constructor. It is possible to also include static method definitions in class definitions. These are methods which can be called without ever creating an instance of the class. We will return to this subject in the next part.
