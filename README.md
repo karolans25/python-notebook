@@ -90,6 +90,12 @@ print with end='' => one line
 
 #### fractions
 
+#### random
+
+* randint
+
+* choice
+
 ## PART 2
 
 ### Statement
