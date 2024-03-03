@@ -310,12 +310,12 @@
 3. Programming exercise: The shortest person in the room ✅
 
 **3. Encapsulation** (3)
-1. Programming exercise: Car
-2. Programming exercise: Recording
-3. Programming exercise: Weather station
+1. Programming exercise: Car ✅
+2. Programming exercise: Recording ✅
+3. Programming exercise: Weather station ✅
 
 **4. Scope of methods** (1)
-1. Programming exercise: Service charge
+1. Programming exercise: Service charge ✅
 
 **5. Class attributes** (2)
 1. Programming exercise: Postcodes
