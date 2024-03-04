@@ -325,22 +325,22 @@
 1. Programming exercise: Item, Suitcase and Cargo hold ✅
 
 ## Part 10:
-**1. Class hierarchies**
-1. Programming exercise: Laptop computer
-2. Programming exercise: Game Museum
-3. Programming exercise: Areas
-4. Programming exercise: Word game
+**1. Class hierarchies** (4)
+1. Programming exercise: Laptop computer ✅
+2. Programming exercise: Game Museum ✅
+3. Programming exercise: Areas ✅
+4. Programming exercise: Word game ✅
 
-**2. Access modifiers**
+**2. Access modifiers** (2)
 1. Programming exercise: Supergroup
 2. Programming exercise: Secret magic potion
 
-**3. Object oriented programming techniques**
+**3. Object oriented programming techniques** (3)
 1. Programming exercise: Money
 2. Programming exercise: Simple date
 3. Programming exercise: An iterable shopping list
 
-**4. Developing a larger application**
+**4. Developing a larger application** (3)
 1. Programming exercise: Phone book expansion, version 1
 2. Programming exercise: Phone book expansion, version 2
 3. Programming exercise: CourseRecords
