@@ -71,7 +71,7 @@
 4.  Programming exercise: Repeat password ✅
 5.  Programming exercise: PIN and number of attempts ✅
 6.  Programming exercise: The next leap year ✅
-7.  Programming exercise: Story ❌
+7.  Programming exercise: Story ❌ ❗❓
 8.  Programming exercise: Working with numbers ✅
 
 ## Part 3:
@@ -318,8 +318,29 @@
 1. Programming exercise: Service charge ✅
 
 **5. Class attributes** (2)
-1. Programming exercise: Postcodes
-2. Programming exercise: List helper
+1. Programming exercise: Postcodes ✅
+2. Programming exercise: List helper  ❌ ❗❓
 
 **6. More examples with classes** (1)
-1. Programming exercise: Item, Suitcase and Cargo hold
+1. Programming exercise: Item, Suitcase and Cargo hold ✅
+
+## Part 10:
+**1. Class hierarchies**
+1. Programming exercise: Laptop computer
+2. Programming exercise: Game Museum
+3. Programming exercise: Areas
+4. Programming exercise: Word game
+
+**2. Access modifiers**
+1. Programming exercise: Supergroup
+2. Programming exercise: Secret magic potion
+
+**3. Object oriented programming techniques**
+1. Programming exercise: Money
+2. Programming exercise: Simple date
+3. Programming exercise: An iterable shopping list
+
+**4. Developing a larger application**
+1. Programming exercise: Phone book expansion, version 1
+2. Programming exercise: Phone book expansion, version 2
+3. Programming exercise: CourseRecords
