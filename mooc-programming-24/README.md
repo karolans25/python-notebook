@@ -332,15 +332,43 @@
 4. Programming exercise: Word game ✅
 
 **2. Access modifiers** (2)
-1. Programming exercise: Supergroup
-2. Programming exercise: Secret magic potion
+1. Programming exercise: Supergroup ✅
+2. Programming exercise: Secret magic potion ✅
 
 **3. Object oriented programming techniques** (3)
-1. Programming exercise: Money
-2. Programming exercise: Simple date
-3. Programming exercise: An iterable shopping list
+1. Programming exercise: Money ✅
+2. Programming exercise: Simple date ✅
+3. Programming exercise: An iterable shopping list ✅
 
 **4. Developing a larger application** (3)
-1. Programming exercise: Phone book expansion, version 1
-2. Programming exercise: Phone book expansion, version 2
-3. Programming exercise: CourseRecords
+1. Programming exercise: Phone book expansion, version 1 ✅
+2. Programming exercise: Phone book expansion, version 2 ✅
+3. Programming exercise: CourseRecords ✅
+
+## Part 11:
+**1. List comprehensions**
+1. Programming exercise: Square roots
+2. Programming exercise: Rows of stars
+3. Programming exercise: Best exam result
+4. Programming exercise: Lengths
+5. Programming exercise: Remove smaller than
+6. Programming exercise: Begin with a vowel
+7. Programming exercise: Lottery numbers
+
+**2. More comprehensions**
+1. Programming exercise: Filter forbidden
+2. Programming exercise: Products in shopping list
+3. Programming exercise: Price difference of cheaper properties
+4. Programming exercise: Lengths of strings
+5. Programming exercise: Most common words
+
+**3. Recursion**
+1. Programming exercise: Add numbers to a list
+2. Programming exercise: Recursive sum
+3. Programming exercise: Balance all the brackets
+
+**4. More recursion examples**
+1. Programming exercise: Greatest node
+2. Programming exercise: Bosses and subordinates
+3. Programming exercise: OrderBook
+4. Programming exercise: Order book application
