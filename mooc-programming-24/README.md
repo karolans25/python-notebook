@@ -319,7 +319,7 @@
 
 **5. Class attributes** (2)
 1. Programming exercise: Postcodes ✅
-2. Programming exercise: List helper  ❌ ❗❓
+2. Programming exercise: List helper ❌ ❗❓
 
 **6. More examples with classes** (1)
 1. Programming exercise: Item, Suitcase and Cargo hold ✅
@@ -346,29 +346,53 @@
 3. Programming exercise: CourseRecords ✅
 
 ## Part 11:
-**1. List comprehensions**
-1. Programming exercise: Square roots
-2. Programming exercise: Rows of stars
-3. Programming exercise: Best exam result
-4. Programming exercise: Lengths
-5. Programming exercise: Remove smaller than
-6. Programming exercise: Begin with a vowel
-7. Programming exercise: Lottery numbers
+**1. List comprehensions** (7)
+1. Programming exercise: Square roots ✅
+2. Programming exercise: Rows of stars ✅
+3. Programming exercise: Best exam result ✅
+4. Programming exercise: Lengths ✅
+5. Programming exercise: Remove smaller than ✅
+6. Programming exercise: Begin with a vowel ✅
+7. Programming exercise: Lottery numbers ✅
 
-**2. More comprehensions**
-1. Programming exercise: Filter forbidden
-2. Programming exercise: Products in shopping list
-3. Programming exercise: Price difference of cheaper properties
-4. Programming exercise: Lengths of strings
-5. Programming exercise: Most common words
+**2. More comprehensions** (5)
+1. Programming exercise: Filter forbidden ✅
+2. Programming exercise: Products in shopping list ✅
+3. Programming exercise: Price difference of cheaper properties ✅
+4. Programming exercise: Lengths of strings ✅
+5. Programming exercise: Most common words ✅
 
-**3. Recursion**
-1. Programming exercise: Add numbers to a list
-2. Programming exercise: Recursive sum
-3. Programming exercise: Balance all the brackets
+**3. Recursion** (3)
+1. Programming exercise: Add numbers to a list ✅
+2. Programming exercise: Recursive sum ✅
+3. Programming exercise: Balance all the brackets ✅
 
-**4. More recursion examples**
-1. Programming exercise: Greatest node
-2. Programming exercise: Bosses and subordinates
-3. Programming exercise: OrderBook
-4. Programming exercise: Order book application
+**4. More recursion examples** (4)
+1. Programming exercise: Greatest node ✅
+2. Programming exercise: Bosses and subordinates ✅
+3. Programming exercise: OrderBook ✅
+4. Programming exercise: Order book application ✅
+
+## Part 12:
+**1. Functions as arguments** (7)
+1. Programming exercise: Sort by remaining stock
+2. Programming exercise: Sort by number of seasons
+3. Programming exercise: Sort by ratings
+4. Programming exercise: ClimbingRoute
+5. Programming exercise: Climbing areas
+6. Programming exercise: BallPlayers
+7. Programming exercise: Product search
+
+**2. Generators** (3)
+1. Programming exercise: Even numbers
+2. Programming exercise: Prime numbers
+3. Programming exercise: Random words
+
+**3. Functional programming** (3)
+1. Programming exercise: Attempted courses
+2. Programming exercise: Filtering attempts
+3. Programming exercise: Study credits
+
+**4. Regular expressions** (2)
+1. Programming exercise: Regular expressions
+2. Programming exercise: Hockey statistics
