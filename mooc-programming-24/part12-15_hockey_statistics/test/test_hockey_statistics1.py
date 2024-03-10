@@ -93,7 +93,18 @@ commands:
             output = get_stdout()
             self.assertFalse(len(output)==0,'Your code does not output anything. Check that it is not inside if __name__ == "__main__" block.')
 
-            exp = """John Klingberg       DAL   6 + 26 =  32"""
+            exp = """read the data of 14 players
+commands:
+0 quit
+1 search for player
+2 teams
+3 countries
+4 players in team
+5 players from country
+6 most points
+7 most goals
+
+John Klingberg       SWE   6 + 26 =  32"""
             for line in exp.split("\n"):
                 if not line in output:
                     self.fail(f"The program should output\n{line}\nwhen the program is executed as\n{s(input_values)}\nNow the output was\n{output}")   
@@ -176,7 +187,17 @@ USA"""
             output = get_stdout()
             self.assertFalse(len(output)==0,'Your code does not output anything. Check that it is not inside if __name__ == "__main__" block.')
 
-            exp = """Mikko Koivu          MIN   4 + 17 =  21"""
+            exp = """commands:
+0 quit
+1 search for player
+2 teams
+3 countries
+4 players in team
+5 players from country
+6 most points
+7 most goals
+
+Mikko Koivu          FIN   4 + 17 =  21"""
             for line in exp.split("\n"):
                 if not line in output:
                     self.fail(f"The program should output\n{line}\nwhen the program is executed as\n{s(input_values)}\nNow the output was\n{output}")   
@@ -192,7 +213,18 @@ USA"""
             output = get_stdout()
             self.assertFalse(len(output)==0,'Your code does not output anything. Check that it is not inside if __name__ == "__main__" block.')
 
-            exp = """Alex Ovechkin        WSH  48 + 19 =  67"""
+            exp = """read the data of 964 players
+commands:
+0 quit
+1 search for player
+2 teams
+3 countries
+4 players in team
+5 players from country
+6 most points
+7 most goals
+
+Alex Ovechkin        RUS  48 + 19 =  67"""
             for line in exp.split("\n"):
                 if not line in output:
                     self.fail(f"The program should output\n{line}\nwhen the program is executed as\n{s(input_values)}\nNow the output was\n{output}")   

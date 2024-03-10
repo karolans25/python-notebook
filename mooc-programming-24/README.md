@@ -375,24 +375,52 @@
 
 ## Part 12:
 **1. Functions as arguments** (7)
-1. Programming exercise: Sort by remaining stock
-2. Programming exercise: Sort by number of seasons
-3. Programming exercise: Sort by ratings
-4. Programming exercise: ClimbingRoute
-5. Programming exercise: Climbing areas
-6. Programming exercise: BallPlayers
-7. Programming exercise: Product search
+1. Programming exercise: Sort by remaining stock ✅
+2. Programming exercise: Sort by number of seasons ✅
+3. Programming exercise: Sort by ratings ✅
+4. Programming exercise: ClimbingRoute ✅
+5. Programming exercise: Climbing areas ✅
+6. Programming exercise: BallPlayers ✅
+7. Programming exercise: Product search ✅
 
 **2. Generators** (3)
-1. Programming exercise: Even numbers
-2. Programming exercise: Prime numbers
-3. Programming exercise: Random words
+1. Programming exercise: Even numbers ✅
+2. Programming exercise: Prime numbers ✅
+3. Programming exercise: Random words ✅
 
 **3. Functional programming** (3)
-1. Programming exercise: Attempted courses
-2. Programming exercise: Filtering attempts
-3. Programming exercise: Study credits
+1. Programming exercise: Attempted courses ✅
+2. Programming exercise: Filtering attempts ✅
+3. Programming exercise: Study credits ✅
 
 **4. Regular expressions** (2)
 1. Programming exercise: Regular expressions
 2. Programming exercise: Hockey statistics
+
+## Part 13:
+**1. Pygame**
+1. Programming exercise: Four robots
+2. Programming exercise: Robots in a row
+3. Programming exercise: A hundred robots
+4. Programming exercise: Random robots
+
+**2. Animation**
+1. Programming exercise: Vertical movement
+2. Programming exercise: Round the perimeter
+3. Programming exercise: Two robots
+4. Programming exercise: Robots in a circle
+5. Programming exercise: Bouncing ball
+6. Programming exercise: Robot invasion
+
+**3. Events**
+1. Programming exercise: Four directions
+2. Programming exercise: Four walls
+3. Programming exercise: Two players
+4. Programming exercise: Robot and mouse
+5. Programming exercise: The location of the robot
+
+**4. More pygame techniques**
+1. Programming exercise: Clock
+2. Programming exercise: Asteroids
+
+## Part 14
