@@ -7,3 +7,24 @@
 
 # WRITE YOUR SOLUTION HERE:
 
+import pygame
+
+pygame.init()
+width, height = (640, 480)
+window = pygame.display.set_mode((width, height))
+
+robot = pygame.image.load("robot.png")
+
+window.fill((0,0,0))
+x = width - robot.get_width()
+y = height - robot.get_height()
+window.blit(robot, (0, 0))
+window.blit(robot, (x, 0))
+window.blit(robot, (0, y))
+window.blit(robot, (x, y))
+pygame.display.flip()
+
+while True:
+    for event in pygame.event.get():
+        if event.type == pygame.QUIT:
+            exit()
